@@ -1,0 +1,1 @@
+exec sp_set_firewall_rule N'Allow Azure', '0.0.0.0', '0.0.0.0'; 
